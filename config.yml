@@ -1,0 +1,7 @@
+url: "https://commande.dominos.fr/eStore/fr/Basket/ApplyVoucher?controllerName=ProductMenu&addFromVoucherBox=true&voucherCode="
+parameters:
+    time_between_requests: 1
+    display_interval: 10
+filenames:
+    codes: "files/codes.txt"
+    dictionary: "files/dictionary.txt"
